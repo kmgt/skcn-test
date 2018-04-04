@@ -1,5 +1,5 @@
 title = "Osprey Example Site"
-baseURL = "https://zen-kalam-4ce959.netlify.com"
+baseURL = "https://zen-kalam-4ce959.netlify.com/"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"
