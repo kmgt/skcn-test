@@ -1,7 +1,7 @@
 baseurl                 = "/"               # Your domain name. Must end with "/"
 languageCode            = "en-us"
 title                   = "Call me Sam"
-theme                   = "sam"
+theme                   = "hugo-theme-sam-master"
 # googleAnalytics       = "xxx"             # Tracking code, eg. "UA-111111111-1"
 
 [params]
