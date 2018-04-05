@@ -13,8 +13,14 @@ table {
   border-collapse: collapse;
 }
 
-.center {
+
+.outer {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.inner{
+  display: inline-block;
+  text-align: left;
 }
