@@ -1,6 +1,5 @@
 
 
-
 body {
   font-family: 'Noto Sans Japanese', serif;
   text-rendering: optimizeLegibility;
@@ -9,23 +8,35 @@ body {
   -moz-font-feature-settings: "liga" on;
 }
 
-table, td {
-  border: 1px #000000 solid;
-  border-collapse: collapse;
-  padding: 10px 20px;
+table {
+  width: 100%;
 }
+table tr {
+  display: block;
+  float: left;
+}
+table tr td, table tr th {
+  display: block;
+  height: 40px;
+}
+table thead {
+  display: block;
+  float: left;
+  width: 30%;
+}
+table thead tr {
+  width: 100%;
+}
+table tbody {
+  display: block;
+  float: left;
+  width: 70%;
+}
+table tbody tr {
+  width: 30%;
+ }
 
-.outer {
-  width: 920px;  
-  height: 580px;  
-  position: absolute;  
-  top: 50%;  
-  left: 50%;  
-  margin: -310px 0 0 -480px;  
-  padding: 20px;  
-}
 
-.inner{
-  display: flex;
-  justify-content: center;
-}
+
+
+
