@@ -7,10 +7,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -moz-font-feature-settings: "liga" on;
-  width: 80%;
-  margin: 0 auto;
-  max-width: 500px;
-  line-height: 1.6;
+  display: flex;
 }
 
 table {
