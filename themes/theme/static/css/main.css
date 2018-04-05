@@ -10,7 +10,7 @@ body {
 }
 
 table {
-  border: 1px
+  border: 1px; 
   bordercolor: "#000000";
   border-collapse: collapse;
   border-spacing: 5px;
