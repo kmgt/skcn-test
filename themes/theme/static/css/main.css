@@ -4,6 +4,11 @@ html,
 	border-radius: 0;
 }
 
+.center{
+  border: 1px solid #aaa;
+  text-align: center;
+}
+
 body {
   font-family: 'Noto Sans Japanese', serif;
   text-rendering: optimizeLegibility;
