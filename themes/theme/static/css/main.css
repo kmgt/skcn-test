@@ -11,6 +11,8 @@ body {
 
 table {
   border-collapse: collapse;
-  display: flex;
 }
 
+.center {
+  display: flex;
+}
