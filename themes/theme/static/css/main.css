@@ -9,7 +9,8 @@ body {
 }
 
 .outer {
-margin:0 auto;
+  position: absolute;
+  margin: auto; 
 }
 
 table, td {
