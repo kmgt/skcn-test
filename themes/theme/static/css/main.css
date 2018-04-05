@@ -10,13 +10,10 @@ body {
 
 .title{
 	font-weight:normal;
-	font-size:300%;
+	font-size:150%;
 	text-align:center;
 	line-height:1;
 	margin:78px 0;
-}
-.title span{
-	font-size:45%;
 }
 
 .contentWrapper{
