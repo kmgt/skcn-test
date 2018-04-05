@@ -10,7 +10,10 @@ body {
 }
 
 table {
+  border: "1";
+  bordercolor: "#000000";
   border-collapse: collapse;
+  border-spacing: 5px;
 }
 
 .outer {
