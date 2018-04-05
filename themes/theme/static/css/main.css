@@ -8,13 +8,16 @@ body {
   -moz-font-feature-settings: "liga" on;
 }
 
-table, td {
-  border: 1px #000000 solid;
-  border-collapse: collapse;
+.outer {
   position: absolute;
   top: 50%;
   left: 50%;
   padding: 10px 20px;
+}
+
+table, td {
+  border: 1px #000000 solid;
+  border-collapse: collapse;
   word-break: break-word;
 }
 
