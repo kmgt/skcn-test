@@ -1,3 +1,4 @@
 baseURL = "https://zen-kalam-4ce959.netlify.com//"
 languageCode = "ja"
 title = "test site"
+theme = "grid-side-master"
