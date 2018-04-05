@@ -1,11 +1,3 @@
-title = "Osprey Example Site"
-baseURL = "https://zen-kalam-4ce959.netlify.com/"
-tags = ["portfolio", "web design", "blog"]
-languageCode = "en-US"
-config = "config.toml"
-theme = "hugo-theme-blueberry-detox-master"
-canonifyURLS = true
-googleAnalytics = ""
-disqusShortname = "tomanistor"
-disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
-
+baseURL = "https://zen-kalam-4ce959.netlify.com//"
+languageCode = "ja"
+title = "test site"
