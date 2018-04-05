@@ -9,9 +9,8 @@ body {
   -moz-font-feature-settings: "liga" on;
 }
 
-table {
-  border: 1px; 
-  bordercolor: "#000000";
+table, td {
+  border: 1px #000000 solid;
   border-collapse: collapse;
   border-spacing: 5px;
 }
