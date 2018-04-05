@@ -12,8 +12,13 @@ table, td {
   border: 1px #000000 solid;
   border-collapse: collapse;
   padding: 10px 20px;
-#  width: 100%;
-  table-layout: fixed;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  width: 100%;
   word-break: break-word;
 }
 
