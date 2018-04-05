@@ -7,10 +7,10 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -moz-font-feature-settings: "liga" on;
-  display: flex;
 }
 
 table {
   border-collapse: collapse;
+  display: flex;
 }
 
