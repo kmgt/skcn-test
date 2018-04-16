@@ -1,4 +1,4 @@
-baseurl = "https://shimokitacoin-test.netlify.com/"
+baseurl = "https://shmktcn-test.netlify.com/"
 languageCode = "ja"
 title = "test site"
 theme = "theme"
