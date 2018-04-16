@@ -47,6 +47,21 @@ body {
 	border-bottom:1px solid #CCC;
 }
 
+#policy table{
+	width:720px;
+	margin:0 auto;
+	border-top:1px solid #CCC;
+}	
+#policy table th{
+	font-weight:normal;
+	white-space:nowrap;
+}
+#policy table th,
+#policy table td{
+	padding:1.6em;
+	border-bottom:1px solid #CCC;
+}
+
 @media screen and (max-width: 720px){
 	#company table{
 		width:auto;
@@ -63,3 +78,18 @@ body {
 		padding-top:5px;
 	}
 
+@media screen and (max-width: 720px){
+	#policy table{
+		width:auto;
+	}	
+	#policy table th,
+	#policy table td{
+		padding:1.6em 10px;
+	}
+	.contentWrapper{
+		width:auto;
+		margin:0 7px 60px;
+	}
+	.contentWrapper.content-top{
+		padding-top:5px;
+	}
