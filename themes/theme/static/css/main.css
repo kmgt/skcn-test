@@ -47,16 +47,11 @@ body {
 	border-bottom:1px solid #CCC;
 }
 
-#policy table{
+#policy p{
 	width:720px;
 	margin:0 auto;
 	border-top:1px solid #CCC;
 }	
-#policy table th{
-	font-weight:normal;
-	white-space:nowrap;
-	padding:1.6em;
-}
 
 @media screen and (max-width: 720px){
 	#company table{
@@ -75,7 +70,7 @@ body {
 	}
 
 @media screen and (max-width: 720px){
-	#policy table{
+	#policy p{
 		width:auto;
 	}	
 	.contentWrapper{
