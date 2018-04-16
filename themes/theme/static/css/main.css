@@ -56,11 +56,6 @@ body {
 	font-weight:normal;
 	white-space:nowrap;
 }
-#policy table th,
-#policy table td{
-	padding:1.6em;
-	border-bottom:1px solid #CCC;
-}
 
 @media screen and (max-width: 720px){
 	#company table{
@@ -82,10 +77,6 @@ body {
 	#policy table{
 		width:auto;
 	}	
-	#policy table th,
-	#policy table td{
-		padding:1.6em 10px;
-	}
 	.contentWrapper{
 		width:auto;
 		margin:0 7px 60px;
