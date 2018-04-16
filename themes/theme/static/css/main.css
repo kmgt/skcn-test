@@ -16,6 +16,14 @@ body {
 	margin:78px 0;
 }
 
+.sub{
+	font-weight:normal;
+	font-size:120%;
+	text-align:center;
+	line-height:1;
+	margin:78px 0;
+}
+
 .contentWrapper{
 	width:1140px;
 	margin:0 auto 60px;
@@ -52,7 +60,7 @@ body {
 	border-top:1px solid #CCC;
 }
 
-@media screen and (max-width: 720px){
+@media screen and (max-width: 740px){
 	#company table{
 		width:auto;
 	}	
@@ -68,7 +76,7 @@ body {
 		padding-top:5px;
 	}
 
-@media screen and (max-width: 720px){
+@media screen and (max-width: 740px){
 	#policy p{
 		width:auto;
 	}	
