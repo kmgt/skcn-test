@@ -92,7 +92,8 @@ body {
 		width:auto;
 	}
 	#policy p{
-		padding:1.0em 60px;
+		margin:0 7px 60px;
+		padding:1.0em auto;
 	}	
 	.contentWrapper{
 		width:auto;
