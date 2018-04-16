@@ -83,16 +83,7 @@ body {
 	#company table td{
 		padding:1.6em 10px;
 	}
-	.contentWrapper{
-		width:auto;
-		margin:0 7px 60px;
-	}
-	.contentWrapper.content-top{
-		padding-top:5px;
-	}
-
-@media screen and (max-width: 740px){
-	#policy p{
+	#policy {
 		width:auto;
 	}	
 	.contentWrapper{
