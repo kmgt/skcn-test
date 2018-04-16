@@ -48,12 +48,14 @@ body {
 }
 
 #policy {
+	width:720px;
 	border-top:1px solid #CCC;
+	border-bottom:1px solid #CCC;
 }
 
 #policy p{
-	width:720px;
 	margin:0 auto;
+	padding:1.6em;
 }
 
 @media screen and (max-width: 720px){
