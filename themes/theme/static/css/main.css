@@ -47,11 +47,14 @@ body {
 	border-bottom:1px solid #CCC;
 }
 
+#policy {
+	border-top:1px solid #CCC;
+}
+
 #policy p{
 	width:720px;
 	margin:0 auto;
-	border-top:1px solid #CCC;
-}	
+}
 
 @media screen and (max-width: 720px){
 	#company table{
