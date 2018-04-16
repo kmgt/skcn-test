@@ -77,8 +77,6 @@ body {
 
 #policy p{
 	width:680px;
-	margin:0 auto;
-	padding:1.0em;
 }
 
 @media screen and (max-width: 740px){
@@ -91,9 +89,6 @@ body {
 	}
 	#policy {
 		width:auto;
-	}	
-	#policy p{
-		padding:1.0em;
 	}	
 	.contentWrapper{
 		width:auto;
