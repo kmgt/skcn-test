@@ -52,11 +52,6 @@ body {
 	border-top:1px solid #CCC;
 }
 
-#policy p{
-	margin:0 auto;
-	padding:1.6em;
-}
-
 @media screen and (max-width: 720px){
 	#company table{
 		width:auto;
