@@ -75,6 +75,10 @@ body {
 	border-top:1px solid #CCC;
 }
 
+#policy p{
+	width:680px;
+}
+
 @media screen and (max-width: 740px){
 	#company table{
 		width:auto;
@@ -85,10 +89,11 @@ body {
 	}
 	#policy {
 		width:auto;
+		margin:0 7px 60px;
 	}
 	.contentWrapper{
 		width:auto;
-		margin:0 70px 60px;
+		margin:0 7px 60px;
 	}
 	.contentWrapper.content-top{
 		padding-top:5px;
