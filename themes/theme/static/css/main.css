@@ -8,6 +8,11 @@ body {
   -moz-font-feature-settings: "liga" on;
 }
 
+img {
+  max-width: 100%;
+  height: atuo;
+}
+
 .title{
 	font-weight:normal;
 	font-size:150%;
