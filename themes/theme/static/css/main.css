@@ -108,7 +108,7 @@ img {
 	#company {
 		width:auto;
 		padding:0em 10px 2.4em;
-		margin:0 7px 60px;
+		margin:0 7px 40px;
 	}
 	#company table{
 		width:auto;
@@ -120,7 +120,7 @@ img {
 	#news {
 		width:auto;
 		padding:1.2em 10px;
-		margin:0 7px 60px;
+		margin:0 7px 40px;
 	}
 	#news p{
 		width:auto;
@@ -128,18 +128,18 @@ img {
 	#policy {
 		width:auto;
 		padding:1.2em 10px;
-		margin:0 7px 60px;
+		margin:0 7px 40px;
 	}
 	#policy p{
 		width:auto;	
 	}
 	.sub{
 		width:auto;
-		margin:0 7px 60px;
+		margin:0 7px 40px;
 	}
 	.contentWrapper{
 		width:auto;
-		margin:0 7px 60px;
+		margin:0 7px 40px;
 	}
 	.contentWrapper.content-top{
 		padding-top:5px;
