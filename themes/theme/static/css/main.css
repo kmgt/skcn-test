@@ -105,6 +105,11 @@ img {
 }
 
 @media screen and (max-width: 740px){
+	#company {
+		width:auto;
+		padding:0em 10px 3.2em;
+		margin:0 7px 60px;
+	}
 	#company table{
 		width:auto;
 	}	
