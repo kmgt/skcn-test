@@ -124,7 +124,6 @@ img {
 	}
 	#news p{
 		width:auto;
-		margin:0 30px 30px;
 	}
 	#policy {
 		width:auto;
@@ -132,8 +131,7 @@ img {
 		margin:0 7px 60px;
 	}
 	#policy p{
-		width:auto;
-		margin:0 30px 30px;
+		width:auto;	
 	}
 	.sub{
 		width:auto;
