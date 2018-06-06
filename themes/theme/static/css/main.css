@@ -112,6 +112,15 @@ img {
 	#company table td{
 		padding:1.6em 10px;
 	}
+	#news {
+		width:auto;
+		padding:1.6em 10px;
+		margin:0 7px 60px;
+	}
+	#news p{
+		width:auto;
+		margin:0 30px 30px;
+	}
 	#policy {
 		width:auto;
 		padding:1.6em 10px;
